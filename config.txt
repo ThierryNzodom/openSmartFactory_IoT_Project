@@ -1,0 +1,4 @@
+MqttBroker: tcp://IWILR2-2.campus.fh-ludwigshafen.de:1883
+Topic: SF/SMoProL/Evt
+ClientID: Gruppe
+Qos: 0
